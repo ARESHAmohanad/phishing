@@ -33,8 +33,8 @@
 
 
 ### Pip
- - `pip3 install maxphisher` [For Termux]
- - `sudo pip3 install maxphisher --break-system-packages` [For Linux]
+ - `pip3 install phishing` [For Termux]
+ - `sudo pip3 install phishing --break-system-packages` [For Linux]
  - `maxphisher`
 
 
@@ -49,7 +49,7 @@ Android    | Excellent
 iPhone     | Alpha (Recommended docker)
 MacOS      | Alpha (Recommended docker)
 Windows    | Unsupported (Use docker/virtual-box/vmware)
-BSD        | Never tested
+
 
 
 
