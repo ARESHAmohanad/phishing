@@ -17,13 +17,41 @@
 
 
 
+##### Clone this repository
+
+ - ```git clone https://github.com/ARESHAmohanad/phishing.git```
+
+##### Enter the directory
+ - ```cd phishing```
+
+##### Install all modules
+ - ```pip3 install -r files/requirements.txt --break-system-packages```
+
+##### Run the tool
+ - ```python3 phishing.py```
+
+
+
+### Pip
+ - `pip3 install maxphisher` [For Termux]
+ - `sudo pip3 install maxphisher --break-system-packages` [For Linux]
+ - `maxphisher`
 
 
 
 
-# phishing
+### Support
 
-* git clone https://github.com/ARESHAmohanad/phishing
-* cd phishing 
-* python3 phishing.py 
+OS         | Support Level
+-----------|--------------
+Linux      | Excellent
+Android    | Excellent
+iPhone     | Alpha (Recommended docker)
+MacOS      | Alpha (Recommended docker)
+Windows    | Unsupported (Use docker/virtual-box/vmware)
+BSD        | Never tested
+
+
+
+
 
